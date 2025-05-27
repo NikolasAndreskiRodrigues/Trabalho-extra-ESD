@@ -14,7 +14,7 @@ Implemente um método que recebe um nó qualquer e retorna sua profundidade na �
 
 Faça o desenho da árvore, e desenhe as travessias (pré e pós ordem)
 
-Árovre:
+Árvore:
 
 │Empresa
 ├── RH
